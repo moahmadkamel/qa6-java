@@ -30,15 +30,18 @@ Write the "target shooting" program.
 
 • The game process itself is processed in an infinite loop.
 
-• The player is asked to enter a line for shooting; the program checks that a number has been entered and that a line has been entered
+• The player is asked to enter a line for shooting; 
+the program checks that a number has been entered and that a line has been entered
 
 • is within the playing field (1-5). If the player made a mistake, he offers to enter the number again.
 
 • The player is asked to enter a column for shooting (must pass a similar check).
 
-• After each shot, it is necessary to show the updated playing field in the console. Cells where the player has already shot should be marked as *.
+• After each shot, it is necessary to show the updated playing field in the console. 
+Cells where the player has already shot should be marked as *.
 
-• The game ends when you hit the target. At the end of the game, display the phrase You have won!, as well as the playing field, on the console.
+• The game ends when you hit the target. At the end of the game, 
+display the phrase You have won!, as well as the playing field, on the console.
 
 • Mark the affected target as an x.
 
@@ -47,8 +50,13 @@ Write the "target shooting" program.
 Example of output to the console:
 
 [0, 1, 2, 3, 4, 5]
+
 [1, -, *, -, -, -]
+
 [2, -, -, -, -, -]
+
 [3, -, *, -, -, -]
+
 [4, -, -, *, -, -]
+
 [5, -, *, -, -, *]
