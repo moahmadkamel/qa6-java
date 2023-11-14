@@ -36,7 +36,7 @@ Create a class Notes. The class must contain the following fields:
                     
 Full name of the student;
 
-Item name;
+Subject name;
 
 Number of pages;
 
