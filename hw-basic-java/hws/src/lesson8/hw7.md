@@ -28,6 +28,8 @@ Write an overloaded method that can:
 
 • Take a number and a string as parameters, then it will output to the console a message like: “Your message is “%%%%%%%%”, your number is $”, where “%%%%%%%%” and $ are your entered string and number respectively.
 
+---
+
 __Task 3:__
 
 Create a class Notes. The class must contain the following fields:
