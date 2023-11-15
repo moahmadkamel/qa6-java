@@ -66,7 +66,8 @@ public class Hw7 {
     
 
     public void getInfo() {
-        System.out.println("Full name: " + firstName + " " + fatherName + " " + familyName);
+        System.out.println(
+                "FirstName: " + firstName + ", " + "FatherName: " + fatherName + ", " + "FamilyName: " + familyName);
         // System.out.println("Full name: " + nameOfStudent);
         System.out.println("Subject: " + subject);
         System.out.println("Number of pages: " + numberOfPages);
