@@ -2,7 +2,7 @@
     "java.project.sourcePaths": [
         "src", "src/lesson3", "src/lesson4", 
         "src/lesson5", "src/lesson6", "src/lesson7",
-        "src/lesson8"
+        "src/lesson8", "src/lesson9-hw8"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
