@@ -50,6 +50,10 @@ public class Human {
     public Human() {
     }
 
+    public Human(Family family) {
+    this.family = family;
+    }
+
     public Human(Pet pet) {
         this.pet = pet;
     }
