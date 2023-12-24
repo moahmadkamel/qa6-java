@@ -1,0 +1,4 @@
+Написать программу, которая повторит действия на видео "HW_AUTOMATION_LESSON_3_UPDATE.mp4".
+http://www.automationpractice.pl/index.php
+
+Write a program that repeats the actions on the video

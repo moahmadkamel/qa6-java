@@ -1,0 +1,8 @@
+https://uhomki.com.ua/ru/koshki/1074/
+
+Найти элемент "Каталог", а при помощи него найти путь к элементу
+"Собаки/кошки общее" используя xpath.
+
+Find the “Directory” element, and use it to find the path to the element
+"Dogs/cats general" using xpath.
+

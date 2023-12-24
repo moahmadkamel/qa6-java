@@ -1,0 +1,7 @@
+найти локаторы к двум данным кнопкам.
+Пользоваться любыми локаторами и методами.
+
+find locators for these two buttons.
+Use any locators and methods.
+
+https://www.jetbrains.com/idea/download/#section=windows

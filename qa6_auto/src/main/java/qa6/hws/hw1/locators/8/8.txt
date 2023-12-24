@@ -1,0 +1,9 @@
+https://dan-it.com.ua/
+
+Отыскать один элемент на основе другого.
+Для нахождения первого элемента можете использовать любые методы и локаторы,
+для прописывания дальнейшего поиска второго элемента не использовать текст.
+
+Find one element based on another.
+To find the first element, you can use any methods and locators,
+Do not use text to prescribe further search for the second element.

@@ -1,0 +1,5 @@
+https://dan-it.com.ua/
+Найти локатор данного элемента не используя текст
+
+Find the locator of a given element without using text
+

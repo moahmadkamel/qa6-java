@@ -1,0 +1,7 @@
+https://uhomki.com.ua/koshki/1074/
+
+Найти как можно кликнуть на кнопку "Вход" элемент используя 4
+различных локатора(Это могут быть и 4 варианта xpath, нужно чтобы они отличались) 
+
+Find how to click on the "Login" button element using 4
+different locators (These can be 4 xpath options, they need to be different)

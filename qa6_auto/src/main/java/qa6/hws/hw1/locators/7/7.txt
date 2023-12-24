@@ -1,0 +1,8 @@
+https://www.w3schools.com/
+
+найти 5 элементов на странице, для нахождения которых можно использовать
+только айди и с которыми можно взаимодействовать. (Кликнуть, ввести текст и т.д.)
+
+find 5 elements on the page that you can use to find
+only IDs and with whom you can interact. (Click, enter text, etc.)
+
